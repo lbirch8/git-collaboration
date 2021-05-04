@@ -1,0 +1,7 @@
+Aloha,
+
+My name is Logan Birch and I am majoring in Computer Science.
+I am a senior and will be graduating this fall semester.
+
+For my project I am creating an app similar to Instagram where users can share
+images with each other and with similar communities.
